@@ -2711,8 +2711,13 @@ input, select, textarea {
 		right: 0;
 	}
 
-		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
+		#header h1, #header h2, #header h4, #header h5, #header h6 {
 			color: #ffffff;
+		}
+
+		#header h3 {
+			color: #ffffff;
+			padding-bottom: 0.1;
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
