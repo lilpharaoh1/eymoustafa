@@ -19,7 +19,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-My name is **Emran Yasser Moustafa**, and I am a **first-year PhD student** at the University of Edinburgh.  
+My name is **Emran Yasser Moustafa**, and I'm a **PhD student** at the University of Edinburgh.
 
 My PhD research focuses on developing **shared autonomy** for **assistive driving** applications. I'm particularly interested in automated decision-making and reasoning under incomplete information. My research is affiliated with the [Centre for AI in Assistive Autonomy](https://www.research.ed.ac.uk/en/persons/ram-ramamoorthy) and I'm supervised by [Subramanian Ramamoorthy](https://www.research.ed.ac.uk/en/persons/ram-ramamoorthy) (Edinburgh) and [Gustav Markkula](https://environment.leeds.ac.uk/transport/staff/957/professor-gustav-markkula) (Leeds). I also work as a consultant for [Copenhagen Group A/S](https://www.cphgroup.com/), where I regularly advise on various technology projects.  
 
